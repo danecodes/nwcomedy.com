@@ -1,4 +1,8 @@
 
+body{
+    background-color:darkcyan;
+}
+
 h1 {
     font-size: 70px;
     font-weight: 900;
@@ -24,6 +28,7 @@ h3 {
     width: 600px;
     margin: 50px auto;
     background-color: #FFFFFF;
+    padding: 50px;
 }
 
 #open_mic_list {
